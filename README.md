@@ -1,2 +1,3 @@
 # Hospital-Management-Project
-I developed this Hospital Mangement Project using core java.
+I developed this Hospital Management Project using core java.
+
