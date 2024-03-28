@@ -1,3 +1,2 @@
-# Hospital-Management-Project
-I developed this Hospital Management Project using core java.
-
+# Hospital-Management-Project.
+Console based multifeature applicaton using core java
